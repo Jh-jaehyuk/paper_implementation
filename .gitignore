@@ -1,0 +1,5 @@
+# exclude .DS_Store(Mac)
+.DS_Store
+
+# exclude data folder
+*/data
