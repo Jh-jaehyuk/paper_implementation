@@ -3,3 +3,6 @@
 
 # exclude data folder
 */data
+
+# exclude .idea
+.idea
